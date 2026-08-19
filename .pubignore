@@ -1,0 +1,3 @@
+# Keep the published archive focused on the library, example, and tests.
+.github/
+coverage/
