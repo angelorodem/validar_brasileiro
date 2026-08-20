@@ -2,7 +2,7 @@ name: validar_brasileiro
 description: >-
   Brazilian document and form validators for Dart and Flutter, including CPF
   and alphanumeric CNPJ.
-version: 0.0.1
+version: 0.1.0
 homepage: https://github.com/angelorodem/validar_brasileiro
 repository: https://github.com/angelorodem/validar_brasileiro
 issue_tracker: https://github.com/angelorodem/validar_brasileiro/issues
